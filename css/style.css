@@ -1,0 +1,21 @@
+
+
+body{background-image: url(https://westeurope1-mediap.svc.ms/transform/thumbnail?provider=spo&inputFormat=jpg&cs=fFNQTw&docid=https%3A%2F%2Falqudscollege-my.sharepoint.com%3A443%2F_api%2Fv2.0%2Fdrives%2Fb!4kW0Mz1ymE6DvXc0RHm89r7i7SSJUsJOkA-56aojf1AKR62oXKimQaAG9ivOPT6d%2Fitems%2F01W4C7VWHHWDPBEPU55JE3BBNQYH6MEZZT%3Fversion%3DPublished&access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvYWxxdWRzY29sbGVnZS1teS5zaGFyZXBvaW50LmNvbUBhMTYyYzUzMi03YTBjLTQ2NDUtOTZmZC0yMGQwMTljZjRlNWEiLCJpc3MiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAiLCJuYmYiOiIxNjIyNTI3MjAwIiwiZXhwIjoiMTYyMjU0ODgwMCIsImVuZHBvaW50dXJsIjoiQi9xc0M5cVUzVjZORCtLVm4zdTFETkhwbXo0ZFQrakI4cVl0eDJjUE1mWT0iLCJlbmRwb2ludHVybExlbmd0aCI6IjEyMyIsImlzbG9vcGJhY2siOiJUcnVlIiwidmVyIjoiaGFzaGVkcHJvb2Z0b2tlbiIsInNpdGVpZCI6Ik16TmlORFExWlRJdE56SXpaQzAwWlRrNExUZ3pZbVF0Tnpjek5EUTBOemxpWTJZMiIsIm5hbWVpZCI6IjAjLmZ8bWVtYmVyc2hpcHx1cm4lM2FzcG8lM2Fhbm9uIzRmYmMwYTk3Yjg0MDc5NGM2NDY5MjNmYThhN2ViODVmY2I0MmRjMTljZWYzOTRhYmUwNmFjYzAwZGRiZDY3ZDYiLCJuaWkiOiJtaWNyb3NvZnQuc2hhcmVwb2ludCIsImlzdXNlciI6InRydWUiLCJjYWNoZWtleSI6IjBoLmZ8bWVtYmVyc2hpcHx1cm4lM2FzcG8lM2Fhbm9uIzRmYmMwYTk3Yjg0MDc5NGM2NDY5MjNmYThhN2ViODVmY2I0MmRjMTljZWYzOTRhYmUwNmFjYzAwZGRiZDY3ZDYiLCJzaGFyaW5naWQiOiJKbWVRbUtkODlVaW81ZHk2RmxJdUNRIiwidHQiOiIwIiwidXNlUGVyc2lzdGVudENvb2tpZSI6IjIifQ.eEwrbGY2c1JDQWtXeHkzcnZFMGZGU1VNYTZicUZrZUJaQWdQVUErWE9kYz0&encodeFailures=1&width=1920&height=861&srcWidth=&srcHeight=);}
+
+img{width: 90px;height: 90px;display: inline-block;margin-top: 20px;}
+
+header{width: 100%;height: 60px;text-align: center;background-color: rgba(255, 229, 72, 255);}
+h1{font-size: 20px;padding: 13px;}
+main div{display: inline-block;}
+#formContainer{margin-left: 200px;background-color: rgba(255, 229, 72, 255);width: 300px;height: 200px; text-align: center;margin-right: 120px;}
+form{margin-top: 70px;}
+form label{margin-bottom: 20px;color: red;margin-bottom: 10px;}
+form input{margin-bottom: 10px;}
+form input:last-child{color: red;}
+
+table{border: 1px solid gray;text-align: center;margin-top: 60px;width: 500px;background-color: rgba(255, 229, 72, 255);}
+table tr{}
+table tr td{border: 1px solid lightgray;height: auto;}
+
+p{margin-bottom: 5px;}
+footer{width: 100%; height: 50px;background-color: rgba(255, 229, 72, 255);margin-top: 100px;}
