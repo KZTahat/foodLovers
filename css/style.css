@@ -14,7 +14,6 @@ form input{margin-bottom: 10px;}
 form input:last-child{color: red;}
 
 table{border: 1px solid gray;text-align: center;margin-top: 60px;width: 500px;background-color: rgba(255, 229, 72, 255);}
-table tr{}
 table tr td{border: 1px solid lightgray;height: auto;}
 
 p{margin-bottom: 5px;}

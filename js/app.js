@@ -42,7 +42,6 @@ Order.prototype.renderOrders = function () {
     while(table.rows.length>1){
         table.deleteRow(1);
     }
-    let images = ['Images/burger.jpg', 'Images/pizza.jpg', ];
     for (let i = 0; i < orders.length; i++) {
         let trElement = document.createElement('tr');
         table.appendChild(trElement);
